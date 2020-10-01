@@ -31,11 +31,11 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+```go
+package main
+
+func main(){
+}
 ```
 
 #### [](#header-4)Header 4
