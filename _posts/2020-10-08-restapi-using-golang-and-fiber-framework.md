@@ -26,7 +26,7 @@ in the end, we get a folder structure like this
 ## Models
 In `api/` folder let’s create a file **task.go** and add a task structure, we have two struct the Task struct and the Form struct.
 
-go
+```go
 package task
 
 import "time"
@@ -50,6 +50,7 @@ type Form struct {
 ## Store
 Let's add a folder `store/` in the `pkg/` folder and inside a file **store.go**
 Now let’s define the Store interface.
+
 
 ```go
 package store
