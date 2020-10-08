@@ -5,7 +5,7 @@ published: true
 
 ## Getting Started
 
-For the purpose of this tutorial, we are going to build a simple todo list RESTful API. To achieve that we will use Golang and Fiber framework.
+For the purpose of this tutorial, we are going to build a simple [todo list RESTful API](https://github.com/idirall22/todo_api). To achieve that we will use Golang and Fiber framework.
 Fiber is an Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
 
 ## What is REST
