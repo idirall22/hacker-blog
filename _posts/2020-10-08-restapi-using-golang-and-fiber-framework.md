@@ -3,11 +3,6 @@ title: Rest API using Golang and Fiber framework
 published: true
 ---
 
----
-title: Rest API using Golang and Fiber framework
-published: true
----
-
 ## Getting Started
 
 For the purpose of this tutorial, we are going to build a simple todo list RESTful API. To achieve that we are going to use Golang and Fiber framework.
@@ -26,7 +21,8 @@ Let’s create some folders inside the project, so we are going to have 3 folder
 `pkg/` this one contains all business logic.
 in the end, we get a folder structure like this
 
-IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+![structure](https://github.com/idirall22/hacker-blog/blob/master/assets/01.PNG "structure")
+
 ## Models
 In `api/` folder let’s create a file **task.go** and add a task structure, we have two struct the Task struct and the Form struct.
 
